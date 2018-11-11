@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archetype-catalog>
+	<archetypes>
+		<archetype>
+			<groupId>com.akai.corp</groupId>
+			<artifactId>archetype</artifactId>
+			<version>1.0.0</version>
+			<repository></repository>
+			<description>archetype template</description>
+		</archetype>
+	</archetypes>
+</archetype-catalog>
