@@ -1,0 +1,18 @@
+{
+	"name": "example",
+	"version": "0.0.1",
+	"dependencies": {
+		"bootstrap": "components/bootstrap#~3.3.7",
+		"jquery": "components/jquery#~3.2.1",
+		"bootstrap-table": "wenzhixin/bootstrap-table#~1.11.1",
+		"bootstrap-select": "silviomoreto/bootstrap-select#~1.12.4"
+	},
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	],
+	"private": true
+}
