@@ -3,9 +3,9 @@
 	<archetypes>
 		<archetype>
 			<groupId>com.akai.corp</groupId>
-			<artifactId>archetype</artifactId>
+			<artifactId>custom-archetype</artifactId>
 			<version>1.0.0</version>
-			<repository></repository>
+			<repository>https://github.com/jay0911/archetype-akai-corp.git</repository>
 			<description>archetype template</description>
 		</archetype>
 	</archetypes>

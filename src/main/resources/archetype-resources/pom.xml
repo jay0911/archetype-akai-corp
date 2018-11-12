@@ -148,7 +148,7 @@
 						<manifest>
 							<addClasspath>true</addClasspath>
 							<classpathPrefix>lib/</classpathPrefix>
-							<mainClass>groupId.artifactId.ServiceRunner</mainClass>
+							<mainClass>${groupId}.${artifactId}.ServiceRunner</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
